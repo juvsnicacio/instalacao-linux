@@ -1,7 +1,7 @@
 ## Instalação Padrão linux
 
 ###### snap
-- sudo apt install snapd
+> sudo apt install snapd
 ###### php
 - sudo apt install php
 ###### apache2
