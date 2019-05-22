@@ -2,11 +2,11 @@
 
 * snap
 > sudo apt install snapd
-###### php
+* php
 > sudo apt install php
-###### apache2
+* apache2
 > sudo apt install apache2
-###### mysql
+* mysql
 > sudo apt install mysql-server
 > sudo mysql -u root -p
 > UPDATE mysql.user SET authentication_string = PASSWORD('password') WHERE User = 'root';
