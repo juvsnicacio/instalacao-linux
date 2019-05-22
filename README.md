@@ -1,6 +1,6 @@
 ## Instalação Padrão linux
 
-###### snap
+* snap
 > sudo apt install snapd
 ###### php
 > sudo apt install php
