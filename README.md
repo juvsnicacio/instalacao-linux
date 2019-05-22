@@ -1,4 +1,4 @@
-## Instalação Padrão linux :shipit:
+## Instalação Padrão linux :shipit: :octocat:
 
 > snap
 ###### sudo apt install snapd
