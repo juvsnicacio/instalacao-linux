@@ -11,5 +11,4 @@
 
 > mysql
 - sudo apt install mysql-server
-- sudo mysql -u root -p
-- UPDATE mysql.user SET authentication_string = PASSWORD('password') WHERE User = 'root';
+- sudo mysql_secure_installation
