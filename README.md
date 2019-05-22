@@ -1,4 +1,4 @@
-## Instalação Padrão linux
+## Instalação Padrão linux :shipit:
 
 - snap
 > sudo apt install snapd
