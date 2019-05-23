@@ -10,5 +10,8 @@
 - sudo apt install apache2
 
 > mysql
-- sudo apt install mysql-server
-- sudo mysql_secure_installation
+
+```sh
+$ sudo apt install mysql-server
+$ sudo mysql_secure_installation
+```
