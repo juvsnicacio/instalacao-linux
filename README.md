@@ -43,3 +43,8 @@
   ```sh
   $ sudo apt install snapd
   ```
+ 
+> git
+  ```sh
+  $ sudo apt install git
+  ```
