@@ -1,23 +1,27 @@
 ## Instalação Padrão linux :octocat:
 
 > docker
-  1. Pacotes de pré-requisitos
+  1. Remover Versões anteriores
+  ```sh
+  $ sudo apt-get remove docker docker-engine docker.io containerd runc
+  ```
+  2. Pacotes de pré-requisitos
   ```sh
   $ sudo apt install apt-transport-https ca-certificates curl software-properties-common
   ```
-  2. Chave GPG para o repositório oficial do Docker**
+  3. Chave GPG para o repositório oficial do Docker**
   ```sh
   $ curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
   ```
-  3. Repositório do Docker às fontes do APT:
+  4. Repositório do Docker às fontes do APT:
   ```sh
   $ sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu bionic stable"
   ```
-  4. Instalação do Docker:**
+  5. Instalação do Docker:**
   ```sh
   $ sudo apt install docker-ce
   ```
-  5. Permissão no docker:**
+  6. Permissão no docker:**
   ```sh
   $ sudo usermod -aG docker ${USER}
   $ su - ${USER}
