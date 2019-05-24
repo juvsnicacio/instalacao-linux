@@ -51,7 +51,7 @@
   ```sh
   $ sudo apt install snapd
   ```
- 
+- download de apps na [snapcraft store](https://snapcraft.io/store)
 > git
   ```sh
   $ sudo apt install git
