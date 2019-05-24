@@ -1,4 +1,4 @@
-## Instalação Padrão linux :octocat:
+## Instalação linux :octocat:
 
 > docker
   1. Remover Versões anteriores
