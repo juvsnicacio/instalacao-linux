@@ -1,5 +1,9 @@
 ## Instalação linux :octocat:
 
+> terminator
+   ```sh
+  $ sudo apt install terminator
+  ```
 > docker
   1. Remover Versões anteriores
   ```sh
