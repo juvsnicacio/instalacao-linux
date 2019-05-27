@@ -55,4 +55,6 @@
 > git
   ```sh
   sudo apt install git
+  git config --global user.name "Juvanderson Nicacio"
+  git config --global user.email juvandersonns@gmail.com
   ```
