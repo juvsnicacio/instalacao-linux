@@ -1,4 +1,4 @@
-## Instalação linux Padrão :octocat:
+## Instalação linux Padrão
 
 > terminator
    ```sh
