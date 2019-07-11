@@ -47,7 +47,7 @@
   ```sh
   docker-compose --version
   ```
-> snapcraft
+> snapcraft store
   ```sh
   sudo apt install snapd
   ```
