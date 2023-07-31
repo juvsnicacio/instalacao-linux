@@ -19,7 +19,7 @@
 > apps
   ```sh
    sudo snap install docker &&
-   sudo snap install intellij-idea-community --classic &&
+   sudo snap install intellij-idea-ultimate --classic &&
    sudo snap install insomnia &&
    sudo snap install code --classic
   ```
